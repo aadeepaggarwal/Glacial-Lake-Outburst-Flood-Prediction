@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>AI-Powered Glacial Lake Flood Forecasting - Aadeep Aggarwal</title>
+    <title> AI-Powered Glacial Lake Flood Forecasting - Aadeep Aggarwal </title>
 </head>
 <body>
 
